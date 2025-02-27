@@ -43,6 +43,12 @@ const song = [
     cover: "05.jpg",
     artist: " Alec Benjamin",
   },
+  {
+    path: "06.m4a",
+    displayName: "Age Manteghi She",
+    cover: "06.jpg",
+    artist: "Feezer ft.Kamand",
+  },
 ];
 
 let musicIndex = 0;
